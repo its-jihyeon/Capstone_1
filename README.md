@@ -14,7 +14,7 @@
 
 ## 📂 자료 (Materials)
 * [학술대회 논문 (PDF)](./docs/paper_kiee_2025.pdf)
-* [프로젝트 발표 자료 (PPT/PDF)](./PPT/presentation.pdf)
+* [프로젝트 발표 자료 (PPT/PDF)](./PPT/Presentation_Steganography.pdf)
 
 ---
 
