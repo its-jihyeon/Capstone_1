@@ -53,3 +53,15 @@
 * **Loss:** 0.29 
 
 ![Figure 2: Detection Metrics](./images/fig2_cnn_metrics.png)
+
+---
+## 👨‍💻 Contributors (참여자)
+본 프로젝트는 **상명대학교 정보보안공학과** 캡스톤 디자인 팀 프로젝트로 진행되었습니다.
+
+### 👩‍💻 Team Members (개발 팀원)
+* **곽지현 (Me)** - [이메일 주소]
+* **안지수**
+* **고가은**
+
+### 🎓 Advisor (지도교수)
+* **박진성 교수님**
