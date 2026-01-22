@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 연구 결과 및 성능 (Performance)
+## 📊 학습 결과 및 성능 (Performance)
 **Kaggle Stego Image Dataset** (Clean 8,000장 / Stego 6,000장)을 사용하여 검증한 결과입니다.
 
 ### 1. 생성 품질 (Image Quality)
