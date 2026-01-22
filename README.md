@@ -7,12 +7,13 @@
 ![Paper](https://img.shields.io/badge/Paper-KIEE-blueviolet)
 
 ## 📖 프로젝트 개요 (Abstract)
-본 프로젝트는 **GAN(Generative Adversarial Network)** 기반의 이미지 정보 은닉 시스템과 **CNN(Convolutional Neural Network)** 기반의 은닉 여부 탐지 시스템을 통합한 솔루션입니다. 
-기존 스테가노그래피 기술의 한계를 넘어, 딥러닝을 통해 육안으로 식별 불가능한 고화질 스테고 이미지(Stego Image)를 생성하고, 이를 높은 정확도로 판별할 수 있습니다.
+본 프로젝트는 **GAN(Generative Adversarial Network)** 기반의 이미지 정보 은닉 시스템과 **CNN(Convolutional Neural Network)** 기반의 은닉 여부 탐지 시스템을 통합한 솔루션입니다. 기존 스테가노그래피 기술의 한계를 넘어, 딥러닝을 통해 육안으로 식별 불가능한 고화질 스테고 이미지(Stego Image)를 생성하고, 이를 높은 정확도로 판별할 수 있습니다.
 
-> **성과:** 본 연구는 **대한전기학회(KIEE) 학술대회**에 논문으로 출간되었습니다.
-> 
-[**[📄 논문(PDF) 전체 읽기]**](./docs/paper_kiee_2025.pdf)
+> **성과:** 본 연구는 **2025년도 대한전기학회(KIEE) 하계학술대회** 논문집에 출간되었습니다.
+
+## 📂 자료 (Materials)
+* [**📄 학술대회 논문 (PDF)**](./docs/paper_kiee_2025.pdf)
+* [**📊 프로젝트 발표 자료 (PDF)**](./PPT/Presentation_Steganography.pdf)
 
 ---
 
@@ -37,7 +38,7 @@
 
 ---
 
-## 📊 연구 결과 및 성능 (Performance)
+## 📊 학습 결과 및 성능 (Performance)
 **Kaggle Stego Image Dataset** (Clean 8,000장 / Stego 6,000장)을 사용하여 검증한 결과입니다.
 
 ### 1. 생성 품질 (Image Quality)
@@ -57,13 +58,16 @@
 ![Figure 2: Detection Metrics](./images/fig2_cnn_metrics.png)
 
 ---
-## 👨‍💻 Contributors (참여자)
+
+## 👨‍💻 Contributors 
 본 프로젝트는 **상명대학교 정보보안공학과** 캡스톤 디자인 팀 프로젝트로 진행되었습니다.
 
-### 👩‍💻 Team Members (개발 팀원)
-* **곽지현 (Me)** - [its.jihyeon@gmail.com]
-* **안지수**
-* **고가은**
+### 👩‍💻 Team Members 
+* **곽지현 (Me)**: GAN 기반 생성 모델 설계 및 학습 | GAN 생성 시스템 전용 GUI 개발
+* **안지수**: CNN 기반 판별 모델 설계 및 학습 | 전체 GUI 프로그램 시스템 통합 수행
+* **고가은**: CNN 기반 판별 모델 설계 및 학습 | CNN 판별 시스템 전용 GUI 개발
 
-### 🎓 Advisor (지도교수)
+> **공동 작업**: 데이터셋 수집, 학술대회 논문 작성 및 발표 자료 제작
+  
+### 🎓 Advisor 
 * **박진성 교수님**
